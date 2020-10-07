@@ -6,9 +6,9 @@ namespace SavingGrejs
     {
         public string name;
         public string weaponName;
-        public int weaponAmmo;
-        public int weaponDamage;
-        public int granades;
-        public int operatorSpeed;
+        public Stat weaponAmmo = new Stat();
+        public Stat weaponDamage = new Stat();
+        public Stat granades = new Stat();
+        public Stat operatorSpeed = new Stat();
     }
 }

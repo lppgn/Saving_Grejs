@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Operator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>g</name>
+  <weaponName>g</weaponName>
+  <weaponAmmo>
+    <name />
+    <value>0</value>
+  </weaponAmmo>
+  <weaponDamage>
+    <name />
+    <value>0</value>
+  </weaponDamage>
+  <granades>
+    <name />
+    <value>0</value>
+  </granades>
+  <operatorSpeed>
+    <name />
+    <value>50</value>
+  </operatorSpeed>
+</Operator>
