@@ -104,7 +104,7 @@ namespace SavingGrejs
             }
             else if (validKeys.Key == ConsoleKey.LeftArrow && statArray[yCoordinate].value > 0)
             {
-                statArray[yCoordinate].value++;
+                statArray[yCoordinate].value--;
                 skillPoints++;
             }
             else if (validKeys.Key == ConsoleKey.Enter && skillPoints == 0)

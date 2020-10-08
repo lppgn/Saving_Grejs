@@ -4,18 +4,18 @@
   <weaponName>g</weaponName>
   <weaponAmmo>
     <name />
-    <value>0</value>
+    <value>8</value>
   </weaponAmmo>
   <weaponDamage>
     <name />
-    <value>0</value>
+    <value>10</value>
   </weaponDamage>
   <granades>
     <name />
-    <value>0</value>
+    <value>20</value>
   </granades>
   <operatorSpeed>
     <name />
-    <value>50</value>
+    <value>12</value>
   </operatorSpeed>
 </Operator>
